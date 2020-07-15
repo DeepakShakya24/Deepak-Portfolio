@@ -1,0 +1,8 @@
+.projects {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://image.freepik.com/free-photo/3d-connections-background-with-low-poly-connecting-lines-dots_1048-11882.jpg") no-repeat center center fixed;
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
