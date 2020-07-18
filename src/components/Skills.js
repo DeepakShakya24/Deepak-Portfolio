@@ -8,13 +8,19 @@ class Skill extends Component {
         <div className="grid-container">
           <div className="grid-item">
             <img
-              src="https://ppc.land/wp-content/uploads/2018/03/aws.png"
+              src="https://www.pikpng.com/pngl/m/167-1678543_aws-logo-amazon-web-services-icon-clipart.png"
               alt="img"
             />
           </div>
           <div className="grid-item">
             <h2>Amazon Web Services</h2>
-            <p>I have all Knowledge of AWS</p>
+            <p>
+              My Domain is Cloud Computing so I have the skills of famous Cloud
+              Service provider AWS,including AWS Cloud Practitioner and
+              Solutions Architect Associate.I know all basic to advance
+              knowledge related to AWS like EC2,S3,Load Balancer,VPC,RDS and
+              many more.
+            </p>
           </div>
         </div>
         <div className="grid-container2">
