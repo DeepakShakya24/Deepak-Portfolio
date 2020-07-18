@@ -48,7 +48,7 @@ class Skill extends Component {
           </div>
           <div className="grid-item">
             <img
-              src="https://img-a.udemycdn.com/course/750x422/822444_a6db.jpg"
+              src="https://res.cloudinary.com/practicaldev/image/fetch/s--ljICTE5K--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://thepracticaldev.s3.amazonaws.com/i/3gjbeg830gnu43sxz7et.png"
               alt="img"
             />
           </div>

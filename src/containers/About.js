@@ -38,12 +38,11 @@ class About extends Component {
               Deepak Shakya
             </h1>
             <p>
-              Crud indignant permissively through burped nodded timorous onto
-              the as wore less ouch far rewound considering so broken dachshund
-              jeepers sanely confident. Contemplated growled apart
-              enthusiastically punitively much much darn onto deep dear returned
-              some cockatoo hungrily fortuitously enchantingly ouch sanely on
-              unceremonious especially much yikes darn.
+              Hello,I am Engineering Student of Integral University,Lucknow
+              persuing Bachelor of Technology(B.Tech) in Computer Science
+              specialization in Cloud Computing and Information
+              Security.Currently I am 3rd Year Student and I am mainly
+              interested in Cloud Computing.
             </p>
             <p>
               Gecko far one before ouch far indistinctly ouch much doubtfully
