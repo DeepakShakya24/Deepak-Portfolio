@@ -1,15 +1,33 @@
-.about {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/myimg.jpg") no-repeat center center fixed;
-    height: 90vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.about-grid {
+    display: grid;
+    grid-column-gap: -2.5rem;
+    padding: 100px;
+    grid-template-columns: repeat(auto-fill, minmax(570px, 1fr));
+    margin: 100px auto;
+    background-color: white;
 }
 
-.content {
-    color: white;
-    position: absolute;
-    top: 50%;
-    left: 70%;
-    transform: translate(-50%, -50%);
+.grid-item2 {
+    margin-top: 40px;
+    margin-right: 70px;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    margin-left: 100px;
+    object-fit: cover;
+}
+
+.Navbar {
+    background-color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
 }
