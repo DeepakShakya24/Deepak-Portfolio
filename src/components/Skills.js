@@ -3,8 +3,10 @@ import React, { Component } from "react";
 class Skill extends Component {
   render() {
     return (
-      <div>
-        <h1>My skills</h1>
+      <div className="grid-container">
+        <div className="grid-item">
+          <h1 style={{ textAlign: "center" }}>My Skills</h1>
+        </div>
       </div>
     );
   }
