@@ -1,10 +1,10 @@
 .about-grid {
     display: grid;
-    grid-column-gap: -2.5rem;
     grid-row-gap: 60px;
     padding: 100px;
     grid-template-columns: repeat(auto-fill, minmax(570px, 1fr));
     margin: 100px auto;
+    max-width: 100%;
     background-color: wheat;
 }
 
@@ -22,13 +22,4 @@ img {
 
 .Navbar {
     background-color: black;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-[class*="col-"] {
-    float: left;
-    padding: 15px;
 }
