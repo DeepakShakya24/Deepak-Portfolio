@@ -4,7 +4,7 @@
     padding: 100px;
     grid-template-columns: repeat(auto-fill, minmax(650px, 1fr));
     margin: 100px auto;
-    background-color: wheat;
+    background-color: burlywood;
 }
 
 .grid-item2 {

@@ -9,7 +9,6 @@ class Skill extends Component {
         <Slide top>
           <h1 style={{ textAlign: "center" }}>My Skills</h1>
         </Slide>
-
         <div className="grid-container">
           <div className="grid-item">
             <Fade left>
@@ -37,7 +36,13 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade right>
               <h2>DevOps</h2>
-              <p>I have all Knowledge of AWS</p>
+              <p>
+                The DevOps is now using in all enterprises everybody is moving
+                towards an automation, so I learned a DevOps tools like
+                Git,Docker,Kubernetes,Jenkins etc.I have knowledge of making
+                CI/CD Pipelines.View some of my work related to DevOps in my
+                Project Section.
+              </p>
             </Fade>
           </div>
           <div className="grid-item">
@@ -61,7 +66,13 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade left>
               <h2>Django</h2>
-              <p>I have all Knowledge of AWS</p>
+              <p>
+                Django,Python Web Framework,from here my journey as a Back-End
+                Developer starts.This is an Open-source python web-Framework I
+                worked alot in this framework,Because you can build both
+                Front-End and Back-end from this tool.View my project section to
+                see some of my projects on Django
+              </p>
             </Fade>
           </div>
         </div>
