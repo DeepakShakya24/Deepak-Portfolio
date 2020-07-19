@@ -34,7 +34,13 @@ class About extends Component {
             <img src={img2} alt="profile-pic" />
           </div>
           <div className="grid-item2 animate__animated animate__fadeInDown">
-            <h1 style={{ textAlign: "center", fontWeight: "bold" }}>
+            <h1
+              style={{
+                textAlign: "center",
+                fontWeight: "bold",
+                fontFamily: "Permanent Marker",
+              }}
+            >
               Deepak Shakya
             </h1>
             <p>
@@ -43,6 +49,12 @@ class About extends Component {
               specialization in Cloud Computing and Information
               Security.Currently I am 3rd Year Student and I am mainly
               interested in Cloud Computing.
+            </p>
+            <p>
+              I learned a lot of things related to Cloud Computing and DevOps
+              and i am still learning,My main Domain is Cloud service Provider
+              AWS and DevOps and I have done many projects on these Technologies
+              and I am full-stack Web Developer.
             </p>
           </div>
         </div>

@@ -2,18 +2,21 @@ import React, { Component } from "react";
 import "./Skills.css";
 import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
+import django from "../images/django.png";
 class Skill extends Component {
   render() {
     return (
       <div className="skill-content">
         <Slide top>
-          <h1 style={{ textAlign: "center" }}>My Skills</h1>
+          <h1 style={{ textAlign: "center" }}>
+            <strong>My Skills</strong>
+          </h1>
         </Slide>
         <div className="grid-container">
           <div className="grid-item">
             <Fade left>
               <img
-                src="https://www.pikpng.com/pngl/m/167-1678543_aws-logo-amazon-web-services-icon-clipart.png"
+                src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
                 alt="img"
               />
             </Fade>
@@ -57,10 +60,7 @@ class Skill extends Component {
         <div className="grid-container">
           <div className="grid-item">
             <Fade left>
-              <img
-                src="https://icon-icons.com/icons2/2107/PNG/256/file_type_django_icon_130645.png"
-                alt="img"
-              />
+              <img src={django} alt="img" />
             </Fade>
           </div>
           <div className="grid-item">
@@ -80,7 +80,10 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade right>
               <h2>Full-Stack Developer</h2>
-              <p>I have all Knowledge of AWS</p>
+              <p>
+                I use Django Stack for developing a Full-stack websites,Django
+                Stack includes HTML,CSS.Javascrip,Django-Famework and Mysql
+              </p>
             </Fade>
           </div>
           <div className="grid-item">
