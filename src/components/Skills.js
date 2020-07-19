@@ -32,7 +32,7 @@ class Skill extends Component {
           </div>
         </div>
 
-        <div className="grid-container2">
+        <div className="grid-container">
           <div className="grid-item">
             <Fade right>
               <h2>DevOps</h2>
@@ -76,7 +76,7 @@ class Skill extends Component {
             </Fade>
           </div>
         </div>
-        <div className="grid-container2">
+        <div className="grid-container">
           <div className="grid-item">
             <Fade right>
               <h2>Full-Stack Developer</h2>
