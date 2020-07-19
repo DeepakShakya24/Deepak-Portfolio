@@ -16,8 +16,9 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade left>
               <img
-                src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+                src="https://www.pngkit.com/png/full/246-2467229_aws-logo-amazon-web-services-icon.png"
                 alt="img"
+                className="new-img"
               />
             </Fade>
           </div>
@@ -51,7 +52,7 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade right>
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKp1zbVbFzJzQiBpEJS1RkEywLBPWWASAOnw&usqp=CAU"
+                src="https://www.pngitem.com/pimgs/m/174-1745736_devops-developer-hd-png-download.png"
                 alt="img"
               />
             </Fade>
@@ -61,7 +62,7 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade left>
               <img
-                src="https://icon2.cleanpng.com/20180805/eb/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f31f04c5.1280117815334955391271.jpg"
+                src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"
                 alt="img"
               />
             </Fade>
@@ -92,7 +93,7 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade right>
               <img
-                src="https://res.cloudinary.com/practicaldev/image/fetch/s--ljICTE5K--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://thepracticaldev.s3.amazonaws.com/i/3gjbeg830gnu43sxz7et.png"
+                src="https://media.giphy.com/media/d9IfL7seBexHLct75B/source.gif"
                 alt="img"
               />
             </Fade>
