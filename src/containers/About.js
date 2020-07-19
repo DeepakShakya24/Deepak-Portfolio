@@ -27,13 +27,13 @@ class About extends Component {
               </ul>
             </nav>
           </div>
-          <div className="grid-item">
+          <div className="grid-item animate__animated animate__fadeInUp">
             <h1>
               <strong>About Me</strong>
             </h1>
             <img src={img2} alt="profile-pic" />
           </div>
-          <div className="grid-item2">
+          <div className="grid-item2 animate__animated animate__fadeInDown">
             <h1 style={{ textAlign: "center", fontWeight: "bold" }}>
               Deepak Shakya
             </h1>
