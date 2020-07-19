@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./Skills.css";
 import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
-import django from "../images/django.png";
+//import django from "../images/django.png";
 class Skill extends Component {
   render() {
     return (
@@ -24,7 +24,7 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade left>
               <h2>Amazon Web Services</h2>
-              <p>
+              <p style={{ fontSize: "20px" }}>
                 My Domain is Cloud Computing so I have the skills of famous
                 Cloud Service provider AWS,including AWS Cloud Practitioner and
                 Solutions Architect Associate.I know all basic to advance
@@ -39,7 +39,7 @@ class Skill extends Component {
           <div className="grid-item">
             <Fade right>
               <h2>DevOps</h2>
-              <p>
+              <p style={{ fontSize: "20px" }}>
                 The DevOps is now using in all enterprises everybody is moving
                 towards an automation, so I learned a DevOps tools like
                 Git,Docker,Kubernetes,Jenkins etc.I have knowledge of making
@@ -60,13 +60,16 @@ class Skill extends Component {
         <div className="grid-container">
           <div className="grid-item">
             <Fade left>
-              <img src={django} alt="img" />
+              <img
+                src="https://icon2.cleanpng.com/20180805/eb/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f31f04c5.1280117815334955391271.jpg"
+                alt="img"
+              />
             </Fade>
           </div>
           <div className="grid-item">
             <Fade left>
               <h2>Django</h2>
-              <p>
+              <p style={{ fontSize: "20px" }}>
                 Django,Python Web Framework,from here my journey as a Back-End
                 Developer starts.This is an Open-source python web-Framework I
                 worked alot in this framework,Because you can build both

@@ -37,20 +37,21 @@ class About extends Component {
             <h1
               style={{
                 textAlign: "center",
-                fontWeight: "bold",
-                fontFamily: "Permanent Marker",
+
+                fontSize: "60px",
+                fontFamily: "Rowdies",
               }}
             >
               Deepak Shakya
             </h1>
-            <p>
+            <p style={{ fontSize: "20px" }}>
               Hello,I am Engineering Student of Integral University,Lucknow
               persuing Bachelor of Technology(B.Tech) in Computer Science
               specialization in Cloud Computing and Information
               Security.Currently I am 3rd Year Student and I am mainly
               interested in Cloud Computing.
             </p>
-            <p>
+            <p style={{ fontSize: "20px" }}>
               I learned a lot of things related to Cloud Computing and DevOps
               and i am still learning,My main Domain is Cloud service Provider
               AWS and DevOps and I have done many projects on these Technologies
