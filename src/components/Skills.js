@@ -8,7 +8,7 @@ class Skill extends Component {
     return (
       <div className="skill-content">
         <Slide top>
-          <h1 style={{ textAlign: "center", fontSize: "70px" }}>
+          <h1 style={{ textAlign: "center" }}>
             <strong>My Skills</strong>
           </h1>
         </Slide>
