@@ -8,7 +8,7 @@ class Skill extends Component {
     return (
       <div className="skill-content">
         <Slide top>
-          <h1 style={{ textAlign: "center" }}>
+          <h1 style={{ textAlign: "center", fontSize: "70px" }}>
             <strong>My Skills</strong>
           </h1>
         </Slide>
@@ -24,7 +24,7 @@ class Skill extends Component {
           </div>
           <div className="grid-item">
             <Fade left>
-              <h2>Amazon Web Services</h2>
+              <h2 style={{ fontWeight: "bold" }}>Amazon Web Services</h2>
               <p style={{ fontSize: "20px" }}>
                 My Domain is Cloud Computing so I have the skills of famous
                 Cloud Service provider AWS,including AWS Cloud Practitioner and
@@ -39,7 +39,7 @@ class Skill extends Component {
         <div className="grid-container">
           <div className="grid-item">
             <Fade right>
-              <h2>DevOps</h2>
+              <h2 style={{ fontWeight: "bold" }}>DevOps</h2>
               <p style={{ fontSize: "20px" }}>
                 The DevOps is now using in all enterprises everybody is moving
                 towards an automation, so I learned a DevOps tools like
@@ -69,7 +69,7 @@ class Skill extends Component {
           </div>
           <div className="grid-item">
             <Fade left>
-              <h2>Django</h2>
+              <h2 style={{ fontWeight: "bold" }}>Django</h2>
               <p style={{ fontSize: "20px" }}>
                 Django,Python Web Framework,from here my journey as a Back-End
                 Developer starts.This is an Open-source python web-Framework I
@@ -83,10 +83,10 @@ class Skill extends Component {
         <div className="grid-container">
           <div className="grid-item">
             <Fade right>
-              <h2>Full-Stack Developer</h2>
-              <p>
+              <h2 style={{ fontWeight: "bold" }}>Full-Stack Developer</h2>
+              <p style={{ fontSize: "20px" }}>
                 I use Django Stack for developing a Full-stack websites,Django
-                Stack includes HTML,CSS.Javascrip,Django-Famework and Mysql
+                Stack includes HTML,CSS.Javascript,Django-Famework and Mysql
               </p>
             </Fade>
           </div>
