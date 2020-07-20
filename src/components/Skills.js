@@ -18,7 +18,7 @@ class Skill extends Component {
               <img
                 src="https://www.pngkit.com/png/full/246-2467229_aws-logo-amazon-web-services-icon.png"
                 alt="img"
-                className="new-img"
+                id="new-img"
               />
             </Fade>
           </div>
