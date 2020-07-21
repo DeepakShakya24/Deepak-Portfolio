@@ -28,4 +28,22 @@
 .new-img {
     width: 400px;
     height: 150px;
+    margin-left: 100px;
+}
+
+.devops-img {
+    width: 50%;
+    height: 50%;
+    margin-left: 100px;
+}
+
+.django-img {
+    width: 50%;
+    height: 50%;
+}
+
+.full-stack-img {
+    width: 50%;
+    height: 50%;
+    margin-left: 100px;
 }

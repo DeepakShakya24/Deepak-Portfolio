@@ -58,6 +58,7 @@ class Skill extends Component {
               <img
                 src="https://www.pngitem.com/pimgs/m/174-1745736_devops-developer-hd-png-download.png"
                 alt="img"
+                className="devops-img"
               />
             </Fade>
           </div>
@@ -68,6 +69,7 @@ class Skill extends Component {
               <img
                 src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"
                 alt="img"
+                className="django-img"
               />
             </Fade>
           </div>
@@ -103,6 +105,7 @@ class Skill extends Component {
               <img
                 src="https://media.giphy.com/media/d9IfL7seBexHLct75B/source.gif"
                 alt="img"
+                className="full-stack-img"
               />
             </Fade>
           </div>

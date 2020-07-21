@@ -1,12 +1,29 @@
 import React, { Component } from "react";
 import "./projects.css";
-import Navbar from "../components/Navbar";
+import { Link } from "react-router-dom";
 import ProjectContent from "../components/projectcontent";
 class Projects extends Component {
   render() {
     return (
       <div className="projects">
-        <Navbar />
+        <div className="Navbar">
+          <nav className="fill">
+            <ul>
+              <li>
+                <Link to="/">Home</Link>
+              </li>
+              <li>
+                <Link to="/about">About</Link>
+              </li>
+              <li>
+                <a href="!#">Contacts</a>
+              </li>
+              <li>
+                <Link to="/projects">Projects</Link>
+              </li>
+            </ul>
+          </nav>
+        </div>
         <ProjectContent />
       </div>
     );
