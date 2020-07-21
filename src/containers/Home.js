@@ -61,6 +61,11 @@ class Home extends Component {
         <Particles params={particlesOptions} className="particles" />
         <Navbar />
         <Content />
+        <footer
+          style={{ textAlign: "center", color: "white", fontSize: "25px" }}
+        >
+          Developed By @Deepak Shakya
+        </footer>
       </div>
     );
   }
