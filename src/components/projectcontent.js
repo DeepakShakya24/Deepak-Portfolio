@@ -13,11 +13,7 @@ const ProjectContent = () => {
           class="card animate__animated animate__zoomIn"
           style={{ width: "18rem" }}
         >
-          <img
-            src={ss1}
-            class="card-img-top animate__animated animate__zoomIn"
-            alt="..."
-          />
+          <img src={ss1} class="card-img-top" alt="..." />
           <div class="card-body">
             <h2 class="card-title">
               <strong>Hostel Complaint Site</strong>
@@ -37,7 +33,7 @@ const ProjectContent = () => {
         >
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6ezkO9dMPsQYrL7uD58Pslvb1tGyBkVigZg&usqp=CAU"
-            class="card-img-top animate__animated animate__zoomIn"
+            class="card-img-top"
             alt="..."
           />
           <div class="card-body">
@@ -62,7 +58,7 @@ const ProjectContent = () => {
         >
           <img
             src="https://images.theconversation.com/files/232705/original/file-20180820-30593-1nxanpj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip"
-            class="card-img-top animate__animated animate__zoomIn"
+            class="card-img-top"
             alt="..."
           />
           <div class="card-body">
@@ -84,7 +80,7 @@ const ProjectContent = () => {
         >
           <img
             src="https://www.cdc.gov/coronavirus/2019-ncov/images/coronavirus-1200x675.jpg"
-            class="card-img-top animate__animated animate__zoomIn"
+            class="card-img-top"
             alt="..."
           />
           <div class="card-body">
@@ -110,7 +106,7 @@ const ProjectContent = () => {
         >
           <img
             src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png"
-            className="card-img-top animate__animated animate__zoomIn"
+            className="card-img-top"
             alt="..."
           />
           <div class="card-body">
@@ -134,7 +130,7 @@ const ProjectContent = () => {
         >
           <img
             src="https://stackify.com/wp-content/uploads/2019/04/big-Feature-Image-on-What-Is-CI_CD-1280x720.jpg"
-            className="card-img-top animate__animated animate__zoomIn"
+            className="card-img-top"
             alt="..."
           />
           <div class="card-body">
