@@ -1,7 +1,6 @@
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
-    padding: 100px;
     margin: 100px auto;
     margin-left: 150px;
 }
@@ -22,7 +21,7 @@
     background-color: #e4f6f6;
     max-width: 100%;
     margin-top: -8rem;
-    padding: 60px;
+    padding: 200px;
 }
 
 .new-img {
@@ -33,7 +32,7 @@
 
 .devops-img {
     width: 50%;
-    height: 50%;
+    height: 90%;
     margin-left: 100px;
 }
 
