@@ -62,7 +62,7 @@ class Home extends Component {
         <Navbar />
         <Content />
         <footer
-          style={{ textAlign: "center", color: "white", fontSize: "25px" }}
+          style={{ textAlign: "center", color: "white", fontSize: "20px" }}
         >
           Developed By @Deepak Shakya
         </footer>
