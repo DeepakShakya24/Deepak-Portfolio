@@ -15,9 +15,9 @@
 
 .profile-pic {
     width: 50%;
-    height: 50%;
+    height: auto;
     margin-left: 100px;
-    object-fit: cover;
+    /* object-fit: cover; */
 }
 
 .Navbar {
