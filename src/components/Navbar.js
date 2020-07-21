@@ -29,7 +29,7 @@ class Navbar extends Component {
               <Link to="/about">About</Link>
             </li>
             <li>
-              <a href="!#">Contacts</a>
+              <a href="mailto:deepakshakya4455@gmail.com">Hire Me!</a>
             </li>
             <li>
               <Link to="/projects">Projects</Link>

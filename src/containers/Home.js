@@ -66,7 +66,7 @@ class Home extends Component {
             textAlign: "center",
             color: "white",
             fontSize: "20px",
-            marginTop: "55px",
+            marginTop: "40px",
           }}
         >
           Developed By @Deepak Shakya

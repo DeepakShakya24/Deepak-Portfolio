@@ -23,7 +23,7 @@ const ProjectContent = () => {
               Framework with Mysql Connectivity.
             </p>
             <a href="https://deepakweb.herokuapp.com/" class="btn btn-primary">
-              View
+              Lookout my Work!
             </a>
           </div>
         </div>
@@ -48,7 +48,7 @@ const ProjectContent = () => {
               href="https://forecastingapp.herokuapp.com/"
               class="btn btn-primary"
             >
-              View
+              Lookout my Work!
             </a>
           </div>
         </div>
@@ -70,7 +70,7 @@ const ProjectContent = () => {
               with the help of JavaScript library React.
             </p>
             <a href="https://deepaknewapp.netlify.app" class="btn btn-primary">
-              View
+              Lookout my Work!
             </a>
           </div>
         </div>
@@ -96,7 +96,7 @@ const ProjectContent = () => {
               href="https://covid-app-statics.netlify.app/"
               class="btn btn-primary"
             >
-              View
+              Lookout my Work!
             </a>
           </div>
         </div>
@@ -120,7 +120,7 @@ const ProjectContent = () => {
               href="https://hub.docker.com/repository/docker/deeptech/dockerizehostelcomplaint"
               class="btn btn-primary"
             >
-              View
+              Lookout my Work!
             </a>
           </div>
         </div>
@@ -147,7 +147,7 @@ const ProjectContent = () => {
               href="https://github.com/DeepakShakya24/Django-CI-CD.git"
               class="btn btn-primary"
             >
-              View
+              Lookout my Work!
             </a>
           </div>
         </div>
