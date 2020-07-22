@@ -69,7 +69,7 @@ class Home extends Component {
             marginTop: "40px",
           }}
         >
-          Design and Developed By @Deepak Shakya
+          Design and Developed by Deepak Shakya
         </footer>
       </div>
     );
