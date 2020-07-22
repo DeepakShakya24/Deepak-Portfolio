@@ -28,11 +28,11 @@ class Skill extends Component {
                 <strong>Amazon Web Services</strong>
               </h2>
               <p style={{ fontSize: "20px" }}>
-                My Domain is Cloud Computing so I have the skills of famous
-                Cloud Service provider AWS,including AWS Cloud Practitioner and
-                Solutions Architect Associate.I know all basic to advance
-                knowledge related to AWS like EC2,S3,Load Balancer,VPC,RDS and
-                many more.
+                My primary domain is Cloud Computing. I am well-versed with the
+                Cloud Service Provider, AWS, including AWS Cloud Practitioner
+                and Solutions Architect Associate.I have a vast knowledge,
+                related to AWS like EC2, S3, Load Balancer, VPC, RDS and many
+                more.
               </p>
             </Fade>
           </div>
@@ -45,11 +45,10 @@ class Skill extends Component {
                 <strong>DevOps</strong>
               </h2>
               <p style={{ fontSize: "20px" }}>
-                The DevOps is now using in all enterprises everybody is moving
-                towards an automation, so I learned a DevOps tools like
-                Git,Docker,Kubernetes,Jenkins etc.I have knowledge of making
-                CI/CD Pipelines.View some of my work related to DevOps in my
-                Project Section.
+                DevOps is now being used in all enterprises, nowadays. The
+                previous decade has seen the rise of automation. I am
+                well-versed with DevOps tools like Git, Docker, Kubernetes,
+                Jenkins, etc. I have knowledge about making CI/CD Pipelines too.
               </p>
             </Fade>
           </div>
@@ -80,10 +79,10 @@ class Skill extends Component {
               </h2>
               <p style={{ fontSize: "20px" }}>
                 Django,Python Web Framework,from here my journey as a Back-End
-                Developer starts.This is an Open-source python web-Framework I
-                worked alot in this framework,Because you can build both
-                Front-End and Back-end from this tool.View my project section to
-                see some of my projects on Django
+                Developer starts.Django is my primary tool for backend
+                development. I am proficient in Python programming language and
+                Django. My personal favourite is combining the powers of Django
+                with React.
               </p>
             </Fade>
           </div>
@@ -95,8 +94,9 @@ class Skill extends Component {
                 <strong>Full-Stack Developer</strong>
               </h2>
               <p style={{ fontSize: "20px" }}>
-                I use Django Stack for developing a Full-stack websites,Django
-                Stack includes HTML,CSS.Javascript,Django-Famework and Mysql
+                I am well-versed with HTML5, CSS3, JS and React to build
+                FrontEnd application. I use Django as my BackEnd web framework.
+                For Database Management, I use MySQL and MongoDB.
               </p>
             </Fade>
           </div>

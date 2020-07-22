@@ -44,17 +44,19 @@ class About extends Component {
               Deepak Shakya
             </h1>
             <p style={{ fontSize: "20px" }}>
-              Hello,I am Engineering Student of Integral University,Lucknow
-              persuing Bachelor of Technology(B.Tech) in Computer Science
-              specialization in Cloud Computing and Information
-              Security.Currently I am 3rd Year Student and I am mainly
-              interested in Cloud Computing.
+              Hello,I am self-taught developer pursuing Bachelors in Computer
+              Science and Engineering with specialization in Cloud Computing and
+              Information Security from Integral University, Lucknow.
             </p>
             <p style={{ fontSize: "20px" }}>
-              I learned a lot of things related to Cloud Computing and DevOps
-              and i am still learning,My main Domain is Cloud service Provider
-              AWS and DevOps and I have done many projects on these Technologies
-              and I am full-stack Web Developer.
+              I like to make things and Cloud Computing fascinates me the most.
+              I have learnt a lot of things related to Cloud Computing and
+              DevOps. I am a FullStack Web Developer and I love tweaking with
+              React.
+            </p>
+            <p style={{ fontSize: "20px" }}>
+              I am a full-time Linux user and I support Free and Open Source
+              Software Technologies..
             </p>
           </div>
         </div>

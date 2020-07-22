@@ -19,10 +19,15 @@ const ProjectContent = () => {
               <strong>Hostel Complaint Site</strong>
             </h2>
             <p class="card-text" style={{ fontWeight: "bold" }}>
-              Build a Hostel Complaint Site with the help of Django Web
+              Built a Hostel Complaint Site with the help of Django Web
               Framework with Mysql Connectivity.
             </p>
-            <a href="https://deepakweb.herokuapp.com/" class="btn btn-primary">
+            <a
+              href="https://hostelcomplaintapp.herokuapp.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-primary"
+            >
               Lookout my Work!
             </a>
           </div>
@@ -46,6 +51,8 @@ const ProjectContent = () => {
             </p>
             <a
               href="https://forecastingapp.herokuapp.com/"
+              target="_blank"
+              rel="noopener noreferrer"
               class="btn btn-primary"
             >
               Lookout my Work!
@@ -66,10 +73,15 @@ const ProjectContent = () => {
               <strong>React Based Weather App</strong>
             </h2>
             <p class="card-text" style={{ fontWeight: "bold" }}>
-              Build a Weather App which tells you a current Weather of your city
+              Built a Weather App which tells you a current Weather of your city
               with the help of JavaScript library React.
             </p>
-            <a href="https://deepaknewapp.netlify.app" class="btn btn-primary">
+            <a
+              href="https://deepaknewapp.netlify.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-primary"
+            >
               Lookout my Work!
             </a>
           </div>
@@ -88,13 +100,15 @@ const ProjectContent = () => {
               <strong>Covid Statics App</strong>
             </h2>
             <p class="card-text" style={{ fontWeight: "bold" }}>
-              Build this useful Covid Static App which gives you an information
+              Built this useful Covid Static App which gives you an information
               about Covid cases in your Country.This application gives you a
               whole analysis of Covid cases with a graph
             </p>
             <a
               href="https://covid-app-statics.netlify.app/"
               class="btn btn-primary"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Lookout my Work!
             </a>
@@ -118,6 +132,8 @@ const ProjectContent = () => {
             </p>
             <a
               href="https://hub.docker.com/repository/docker/deeptech/dockerizehostelcomplaint"
+              target="_blank"
+              rel="noopener noreferrer"
               class="btn btn-primary"
             >
               Lookout my Work!
@@ -138,13 +154,15 @@ const ProjectContent = () => {
               <strong>Build a CI/CD Pipeline</strong>
             </h2>
             <p class="card-text" style={{ fontWeight: "bold" }}>
-              Build a CI/CD pipeline (Continous Integration and Continous
+              Built a CI/CD pipeline (Continous Integration and Continous
               Deployment).This is one of the DevOps Methodolody for shorter
               Software Lifecycle.I build this pipeline with the help of
               Automation Server Jenkins.
             </p>
             <a
               href="https://github.com/DeepakShakya24/Django-CI-CD.git"
+              target="_blank"
+              rel="noopener noreferrer"
               class="btn btn-primary"
             >
               Lookout my Work!

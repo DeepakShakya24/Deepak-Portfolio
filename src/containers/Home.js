@@ -65,7 +65,7 @@ class Home extends Component {
           style={{
             textAlign: "center",
             color: "white",
-            fontSize: "20px",
+            fontSize: "15px",
             marginTop: "40px",
           }}
         >
