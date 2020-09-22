@@ -77,7 +77,7 @@ const ProjectContent = () => {
               with the help of JavaScript library React.
             </p>
             <a
-              href="https://deepaknewapp.netlify.app"
+              href="https://current-weather-site.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               class="btn btn-primary"
